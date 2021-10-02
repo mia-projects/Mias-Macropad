@@ -45,6 +45,7 @@ keybindings[1][9] = macropad.Keycode.F13
 keybindings[1][10] = macropad.Keycode.F14
 keybindings[1][11] = macropad.Keycode.F15
 
+#page 2
 keybindings[2][0] = macropad.Keycode.F22
 keybindings[2][1] = macropad.Keycode.F23
 keybindings[2][2] = macropad.Keycode.F24
@@ -57,6 +58,20 @@ keybindings[2][8] = macropad.Keycode.F18
 keybindings[2][9] = macropad.Keycode.F13
 keybindings[2][10] = macropad.Keycode.F14
 keybindings[2][11] = macropad.Keycode.F15
+
+#page 3
+keybindings[3][0] = macropad.Keycode.F22
+keybindings[3][1] = macropad.Keycode.F23
+keybindings[3][2] = macropad.Keycode.F24
+keybindings[3][3] = macropad.Keycode.F19
+keybindings[3][4] = macropad.Keycode.F20
+keybindings[3][5] = macropad.Keycode.F21
+keybindings[3][6] = macropad.Keycode.F16
+keybindings[3][7] = macropad.Keycode.F17
+keybindings[3][8] = macropad.Keycode.F18
+keybindings[3][9] = macropad.Keycode.F13
+keybindings[3][10] = macropad.Keycode.F14
+keybindings[3][11] = macropad.Keycode.F15
 
 #config rainbow colors
 color_iterator = 0 # just an iterator
